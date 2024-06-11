@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/test1.dir/test1.c.o  -o test1  -Wl,-rpath,/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/pahomqttc-prefix/src/pahomqttc-build/src ../src/libpaho-mqtt3c.so.1.3.8 -lc -ldl -lpthread -lrt /usr/lib/x86_64-linux-gnu/libanl.so 

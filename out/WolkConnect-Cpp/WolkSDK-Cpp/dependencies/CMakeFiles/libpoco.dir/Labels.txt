@@ -1,0 +1,13 @@
+# Target labels
+ libpoco
+# Source files and their labels
+/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/CMakeFiles/libpoco
+/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/CMakeFiles/libpoco.rule
+/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/CMakeFiles/libpoco-complete.rule
+/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/libpoco-prefix/src/libpoco-stamp/libpoco-install.rule
+/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/libpoco-prefix/src/libpoco-stamp/libpoco-mkdir.rule
+/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/libpoco-prefix/src/libpoco-stamp/libpoco-download.rule
+/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/libpoco-prefix/src/libpoco-stamp/libpoco-update.rule
+/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/libpoco-prefix/src/libpoco-stamp/libpoco-patch.rule
+/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/libpoco-prefix/src/libpoco-stamp/libpoco-configure.rule
+/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/libpoco-prefix/src/libpoco-stamp/libpoco-build.rule

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/CMakeFiles/pahomqttcpp"
+		},
+		{
+			"file" : "/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/CMakeFiles/pahomqttcpp.rule"
+		},
+		{
+			"file" : "/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/CMakeFiles/pahomqttcpp-complete.rule"
+		},
+		{
+			"file" : "/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/pahomqttcpp-prefix/src/pahomqttcpp-stamp/pahomqttcpp-install.rule"
+		},
+		{
+			"file" : "/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/pahomqttcpp-prefix/src/pahomqttcpp-stamp/pahomqttcpp-mkdir.rule"
+		},
+		{
+			"file" : "/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/pahomqttcpp-prefix/src/pahomqttcpp-stamp/pahomqttcpp-download.rule"
+		},
+		{
+			"file" : "/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/pahomqttcpp-prefix/src/pahomqttcpp-stamp/pahomqttcpp-update.rule"
+		},
+		{
+			"file" : "/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/pahomqttcpp-prefix/src/pahomqttcpp-stamp/pahomqttcpp-patch.rule"
+		},
+		{
+			"file" : "/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/pahomqttcpp-prefix/src/pahomqttcpp-stamp/pahomqttcpp-configure.rule"
+		},
+		{
+			"file" : "/workspaces/WolkAbout-task/out/WolkConnect-Cpp/WolkSDK-Cpp/dependencies/pahomqttcpp-prefix/src/pahomqttcpp-stamp/pahomqttcpp-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pahomqttcpp"
+		],
+		"name" : "pahomqttcpp"
+	}
+}

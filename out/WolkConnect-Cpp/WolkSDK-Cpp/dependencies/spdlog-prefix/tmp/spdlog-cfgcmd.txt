@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_INSTALL_PREFIX=/workspaces/WolkAbout-task/out/WolkConnect-Cpp/build;-DCMAKE_PREFIX_PATH=/workspaces/WolkAbout-task/out/WolkConnect-Cpp/build;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
