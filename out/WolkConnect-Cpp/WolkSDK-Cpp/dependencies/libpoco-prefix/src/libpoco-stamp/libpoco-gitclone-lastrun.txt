@@ -1,3 +1,0 @@
-repository='https://github.com/pocoproject/poco'
-module=''
-tag='origin'

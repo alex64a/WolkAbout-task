@@ -1,3 +1,0 @@
-repository='https://github.com/eclipse/paho.mqtt.cpp'
-module=''
-tag='origin'

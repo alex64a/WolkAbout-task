@@ -1,1 +1,0 @@
-cmd='/usr/bin/cmake;-DPAHO_WITH_SSL=TRUE;-DPAHO_MQTT_C_INCLUDE_DIRS=/workspaces/WolkAbout-task/out/WolkConnect-Cpp/build/include;-DCMAKE_INSTALL_PREFIX=/workspaces/WolkAbout-task/out/WolkConnect-Cpp/build;-DCMAKE_PREFIX_PATH=/workspaces/WolkAbout-task/out/WolkConnect-Cpp/build;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
