@@ -14,6 +14,6 @@ private:
     void initializeSensors();
     void cleanupSensors();
 };
-
+ 
 #endif // CPU_TEMPERATURE_READER_H
 
