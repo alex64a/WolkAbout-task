@@ -35,8 +35,17 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS}     -Wall -Wextra -pedantic             
                                             -Wwrite-strings")                                                          
 
 #submodule added                             
-add_subdirectory (WolkConnect-Cpp)        
+add_subdirectory (WolkConnect-Cpp)    
 
+#subdirectory for cpu temperature readings
+add_subdirectory(cpuTemperatureReader)
+
+#subdirectory for ip address reader
+add_subdirectory(ipAddressReader)
+
+
+# Find the sensors library
+find_library(sensorsLib /usr/include/sensors/sensors.h)
 
 # Full example
     set(FULL_EXAMPLE_SOURCE_FILES application.cpp)
